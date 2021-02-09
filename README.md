@@ -8,4 +8,4 @@
 
 ## Installation
 
-1. Run `fisher add silver-prompt/fish` in `fish`
+1. Run `fisher install silver-prompt/fish` in `fish`
